@@ -1,6 +1,6 @@
-FROM ubuntu:trusty
+FROM ubuntu:latest
 
-MAINTAINER Alastair Montgomery "alastair@montgomery.me.uk"
+MAINTAINER Marcelo Bartsch <mbartsch@bartsch.cl>
 
 ENV DEBIAN_FRONTEND noninteractive
 
